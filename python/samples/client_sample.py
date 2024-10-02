@@ -6,6 +6,7 @@ import base64
 import os
 import sys
 
+
 import numpy as np
 import soundfile as sf
 from azure.core.credentials import AzureKeyCredential
